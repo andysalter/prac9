@@ -1,0 +1,3 @@
+
+class DictFullError(Exception):
+    pass
